@@ -11,6 +11,7 @@
 - URL(デプロイ先:netlify)
 
 ```
+https://623b2f11fa03230094162ee8--luminous-pegasus-feb30b.netlify.app/
 ```
 ## スクリーンショット
   ![pc](https://github.com/iwakitakuma33/react_recoil_ts_tenki/blob/main/example.png?raw=true)
